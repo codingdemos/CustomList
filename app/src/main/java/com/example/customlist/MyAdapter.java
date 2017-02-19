@@ -9,10 +9,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-/**
- * Created by abdalla on 2/18/17.
- */
-
 public class MyAdapter extends ArrayAdapter<String> {
 
     String[] names;
